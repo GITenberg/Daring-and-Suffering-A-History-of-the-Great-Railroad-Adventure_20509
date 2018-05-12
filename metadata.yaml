@@ -1,0 +1,29 @@
+_repo: Daring-and-Suffering-A-History-of-the-Great-Railroad-Adventure_20509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pittenger, William
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '2464'
+    url: http://www.gutenberg.org/2009/agents/2464
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20509'
+  lccn: '48041716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Chattanooga Railroad Expedition, 1862'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+title: 'Daring and Suffering: A History of the Great Railroad Adventure'
+url: http://www.gutenberg.org/ebooks/20509
